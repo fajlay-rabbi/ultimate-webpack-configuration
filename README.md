@@ -52,6 +52,6 @@ npm run build
 # or
 yarn build
 
-Access the application at [localhost:9000](http://localhost:9000)
+Access the application at **http://localhost:9000**
 
 ```
